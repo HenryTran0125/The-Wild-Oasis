@@ -10,7 +10,7 @@ const sizes = {
   `,
   medium: css`
     font-size: 1.4rem;
-    padding: 1.2rem 1.6rem;
+    padding: 1.2rem 5rem;
     font-weight: 500;
   `,
   large: css`
@@ -52,7 +52,7 @@ const Button = styled.button`
   border-radius: var(--border-radius-sm);
   box-shadow: var(--shadow-sm);
 
-  ${(props) => sizes[props.size]}
+  ${(props) => sizes[props.sizes]}
   ${(props) => variations[props.variations]}
 `;
 
