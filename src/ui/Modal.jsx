@@ -5,7 +5,6 @@ import {
   cloneElement,
   createContext,
   useContext,
-  useEffect,
   useState,
 } from "react";
 import { useOutsideClick } from "../features/cabins/useOutsideClick";
