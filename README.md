@@ -6,19 +6,31 @@ The homepage is a dashboard that can compile statistics on the number of room re
 
 ![Homepage Dashboard](./pics/Homepage_Dashboard_1.png)
 
+Dark mode:
+
+
+![Dark Mode Homepage Dashboard](./pics/dark_mode.png)
+
+
+
 ![Homepage Dashboard](./pics/Homepage_Dashboard_2.png)
-
-
 
 Dark mode:
 
-![Dark mode](./pics/dark_mode.png)
+
+![Dark Mode Homepage Dashboard](./pics/dark_mode_homepage_dashboard_2.png)
 
 
 
 We can check in and check out from Dashboard and when we click check in or check out button it moves to checkin page:
 
 ![Checkin Page](./pics/Check_in_page.png)
+
+Dark mode:
+
+![Checkin Page](./pics/dark_mode_checkin_page.png)
+
+
 ![Checkin Page](./pics/Check_in_process.png)
 
 When we click check in booking it will success and return to homepage:
@@ -29,6 +41,11 @@ List of cabins that customer book:
 
 ![All Bookings](./pics/All_Bookings.png)
 
+
+Dark mode:
+
+![All Bookings](./pics/dark_mode_bookings_1.png)
+
 We can edit cabin that customer book (We can check information in detail, check in, delete):
 
 ![Edit Cabin](./pics/Edit_Cabin.png)
@@ -36,6 +53,11 @@ We can edit cabin that customer book (We can check information in detail, check 
 There are a lot of results divided into multiple pages:
 
 ![Pages](./pics/Pages.png)
+
+
+Dark mode:
+
+![Pages](./pics/dark_mode_bookings_2.png)
 
 We can sort data by status or sort by date:
 
@@ -90,6 +112,11 @@ Sort by amount (low first):
 All available cabins:
 
 ![All available cabins](./pics/All_available_cabins.png)
+
+
+Dark mode:
+
+![All available cabins](./pics/dark_mode_cabins_1.png)
 
 
 
@@ -148,16 +175,31 @@ We can add new cabin:
 ![Add new cabin](./pics/Add_new_cabin.png)
 
 
+Dark mode:
+
+![Add new cabin](./pics/dark_mode_cabins_2.png)
+
+
 
 Click button and the form appear:
 
 ![Form add new Cabin](./pics/Form_Add_new_cabin.png)
 
 
+Dark mode:
+
+![Form add new Cabin](./pics/dark_mode_cabins_add_new_form.png)
+
+
 
 Fill in information into the form:
 
 ![Fill in form](./pics/Fill_in_form.png)
+
+
+Dark mode:
+
+![Fill in form](./pics/dark_mode_fill_in_form.png)
 
 
 
@@ -183,7 +225,7 @@ Duplicate cabin:
 
 Edit cabin:
 
-![Edit cabin](./pics/Edit_Cabin.png)
+![Edit cabin](./pics/Edit_cabin_information.png)
 
 
 
@@ -202,15 +244,31 @@ Besides that we can create new user for new staff:
 ![Create new user](./pics/Create_new_user.png)
 
 
+Dark mode:
+
+![Create new user](./pics/dark_mode_create_new_user.png)
+
+
 
 We can also update hotel settings:
 
 ![Update hotel settings](./pics/Update_hotel_settings.png)
 
 
+Dark mode:
+
+![Update hotel settings](./pics/dark_mode_update_hotel_settings.png)
+
+
 
 Update user account: 
 
 ![Update user account](./pics/Update_user_account.png)
+
+
+
+Dark mode:
+
+![Update user account](./pics/dark_mode_update_user_account.png)
 
 
