@@ -2,6 +2,10 @@
 
 This is a project about booking cabin for tour traveling.
 
+Account & Password:
+henry012599@email.com
+diabay123
+
 The homepage is a dashboard that can compile statistics on the number of room reservations in a day.
 
 ![Homepage Dashboard](./pics/Homepage_Dashboard_1.png)
